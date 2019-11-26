@@ -26,4 +26,5 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
+//添加code
 task assemble{}
